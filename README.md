@@ -1,30 +1,30 @@
 # Tugas Praktikum 2 - Blok Prosedural MySQL
 
-##  Anggota Kelompok
+## 👥 Anggota Kelompok
 - Muhammad Mahruf (IK2411061)
 - Fauzan Azima (IK2411039)
 - Gefran (IK2411029)
 
-##  Dosen Pengampu
+## 👨‍🏫 Dosen Pengampu
 Abdul Malik, S.Kom., M.Cs.
 
 ---
 
-##  Deskripsi Singkat
+## 📌 Deskripsi Singkat
 Program ini dibuat untuk memahami konsep blok prosedural pada MySQL menggunakan stored procedure. 
-Di dalam program, data mahasiswa diproses menggunakan variabel dan kondisi (IF), kemudian hasilnya ditampilkan dengan SELECT.
+Data mahasiswa diproses menggunakan variabel dan kondisi (IF), kemudian hasilnya ditampilkan dengan SELECT.
 
 ---
 
-##  Tujuan
+## 🎯 Tujuan
 - Memahami penggunaan stored procedure di MySQL  
 - Menggunakan variabel dengan DECLARE  
-- Menerapkan logika IF dalam pengambilan keputusan  
+- Menerapkan logika IF  
 - Menampilkan hasil menggunakan SELECT  
 
 ---
 
-##  Struktur Program
+## ⚙️ Struktur Program
 
 ### 🔹 Bagian A – Identitas Mahasiswa
 Menampilkan data mahasiswa seperti nama, NIM, program studi, dan semester.
@@ -35,46 +35,41 @@ Melakukan pengecekan:
 - Jumlah SKS  
 - IPK  
 
-Hasil ditampilkan dalam bentuk:
-- status data  
-- beban studi  
-- performa akademik  
-
 ---
 
 ### 🔹 Bagian C – Kelayakan KRS
-Menggabungkan identitas dan hasil validasi untuk menentukan apakah mahasiswa layak mengambil KRS atau tidak.
+Menentukan apakah mahasiswa layak mengambil KRS atau tidak.
 
 ---
 
 ### 🔹 Bagian D – Perbandingan Mahasiswa
-Membandingkan dua mahasiswa berdasarkan IPK, jika sama maka dibandingkan jumlah SKS.
+Membandingkan dua mahasiswa berdasarkan IPK dan SKS.
 
 ---
 
-##  Skenario Pengujian
+## 🧪 Skenario Pengujian
 
-1. **Data Valid**
+1. Data Valid  
    - Status: LUNAS  
-   - SKS: lebih dari 0  
-   - Hasil: Layak mengambil KRS  
+   - SKS: > 0  
+   - Hasil: Layak  
 
-2. **Data Tidak Valid (Status)**
+2. Tidak Valid (Status)  
    - Status: BELUM  
    - Hasil: Tidak Layak  
 
-3. **Data Tidak Valid (SKS)**
+3. Tidak Valid (SKS)  
    - SKS: 0  
    - Hasil: Tidak Layak  
 
 ---
 
-##  Cara Kerja Program
-Program berjalan dengan urutan:
-1. Deklarasi variabel (DECLARE)  
-2. Mengisi nilai variabel  
-3. Proses kondisi menggunakan IF  
-4. Menampilkan hasil menggunakan SELECT  
+## 🧠 Cara Kerja Program
+Program berjalan dengan:
+1. DECLARE variabel  
+2. Mengisi nilai  
+3. IF untuk logika  
+4. SELECT untuk output  
 
 ---
 
