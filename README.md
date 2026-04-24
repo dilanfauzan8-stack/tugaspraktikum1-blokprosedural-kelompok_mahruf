@@ -1,22 +1,22 @@
 # Tugas Praktikum 2 - Blok Prosedural MySQL
 
-## 👥 Anggota Kelompok
+##  Anggota Kelompok
 - Muhammad Mahruf (IK2411061)
 - Fauzan Azima (IK2411039)
 - Gefran (IK2411029)
 
-## 👨‍🏫 Dosen Pengampu
+##  Dosen Pengampu
 Abdul Malik, S.Kom., M.Cs.
 
 ---
 
-## 📌 Deskripsi Singkat
+##  Deskripsi Singkat
 Program ini dibuat untuk memahami konsep blok prosedural pada MySQL menggunakan stored procedure. 
 Data mahasiswa diproses menggunakan variabel dan kondisi (IF), kemudian hasilnya ditampilkan dengan SELECT.
 
 ---
 
-## 🎯 Tujuan
+##  Tujuan
 - Memahami penggunaan stored procedure di MySQL  
 - Menggunakan variabel dengan DECLARE  
 - Menerapkan logika IF  
@@ -24,7 +24,7 @@ Data mahasiswa diproses menggunakan variabel dan kondisi (IF), kemudian hasilnya
 
 ---
 
-## ⚙️ Struktur Program
+##  Struktur Program
 
 ### 🔹 Bagian A – Identitas Mahasiswa
 Menampilkan data mahasiswa seperti nama, NIM, program studi, dan semester.
@@ -47,7 +47,7 @@ Membandingkan dua mahasiswa berdasarkan IPK dan SKS.
 
 ---
 
-## 🧪 Skenario Pengujian
+##  Skenario Pengujian
 
 1. Data Valid  
    - Status: LUNAS  
@@ -64,7 +64,7 @@ Membandingkan dua mahasiswa berdasarkan IPK dan SKS.
 
 ---
 
-## 🧠 Cara Kerja Program
+##  Cara Kerja Program
 Program berjalan dengan:
 1. DECLARE variabel  
 2. Mengisi nilai  
@@ -73,7 +73,7 @@ Program berjalan dengan:
 
 ---
 
-## 📂 Struktur Repository
+##  Struktur Repository
 
     tugaspraktikum1-blokprosedural-kelompok_mahruf
     │
@@ -93,5 +93,5 @@ Hasil eksekusi program dapat dilihat pada folder `screenshot/`.
 
 ---
 
-## 📌 Kesimpulan
+##  Kesimpulan
 Program ini berhasil digunakan untuk memproses dan mengevaluasi data mahasiswa menggunakan konsep blok prosedural di MySQL dengan memanfaatkan variabel dan logika kondisi.
