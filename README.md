@@ -84,9 +84,31 @@ tugaspraktikum1-blokprosedural-kelompok8
     ├── c_tidak_valid2.png
     └── bagian_d.png
 ```
-##   Dokumentasi
+##  Dokumentasi Hasil Eksekusi
 
-Hasil eksekusi program dapat dilihat pada folder screenshot/.
+Hasil eksekusi program telah didokumentasikan dalam bentuk screenshot dan disimpan pada repository ini.
+
+Berikut pembagian hasil berdasarkan bagian program:
+
+### 🔹 Bagian A – Identitas Mahasiswa
+- bagian_a.png  
+- bagian_a1.png  
+
+### 🔹 Bagian B – Validasi Akademik
+- bagian_b.png  
+- bagian_b1.png  
+
+### 🔹 Bagian C – Kelayakan KRS
+- c_valid.png  
+- c_valid1.png  
+- c_tidak_validUKT.png  
+- c_tidak_validUKT1.png  
+- c_tidak_validSKS.png  
+- c_tidak_validSKS1.png  
+
+### 🔹 Bagian D – Perbandingan Mahasiswa
+- bagian_d.png  
+- bagian_d1.png  
 
 ##   Kesimpulan
 
