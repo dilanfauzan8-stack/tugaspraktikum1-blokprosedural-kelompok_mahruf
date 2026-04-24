@@ -83,4 +83,11 @@ tugaspraktikum1-blokprosedural-kelompok8
     ├── c_tidak_valid1.png
     ├── c_tidak_valid2.png
     └── bagian_d.png
+```
+##   Dokumentasi
 
+Hasil eksekusi program dapat dilihat pada folder screenshot/.
+
+##   Kesimpulan
+
+Program ini berhasil mengimplementasikan blok prosedural di MySQL dengan menggunakan parameter sehingga data dapat diubah dengan mudah. Program juga mampu menghasilkan output yang berbeda sesuai kondisi yang diberikan.
