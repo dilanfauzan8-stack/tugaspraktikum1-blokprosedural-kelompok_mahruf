@@ -69,9 +69,9 @@ CALL bagian_c(
 'Muhammad Mahruf','IK2411061',4,'INFORMATIKA',18,3.40,'LUNAS'
 );
 
-``` 📂 Struktur Repository
-
-``tugaspraktikum1-blokprosedural-kelompok8
+## 📂 Struktur Repository
+```
+tugaspraktikum1-blokprosedural-kelompok8
 │
 ├── README.md
 ├── program.sql
